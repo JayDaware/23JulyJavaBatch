@@ -1,1 +1,11 @@
 This is demo code for 23 July Batch
+
+
+we are working on Git functionality
+
+Topics coverd
+OOPs
+Collection
+DB
+
+need to update code
